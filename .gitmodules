@@ -1,0 +1,3 @@
+[submodule "ClickToPlugin.safariextension/plugin-to-html5"]
+	path = ClickToPlugin.safariextension/plugin-to-html5
+	url = https://github.com/hoyois/plugin-to-html5.git

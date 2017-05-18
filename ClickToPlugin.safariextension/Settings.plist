@@ -53,16 +53,9 @@
 	<dict>
 		<key>DefaultValue</key>
 		<array>
-			<string>killers/YouTube.js</string>
-			<string>killers/Dailymotion.js</string>
-			<string>killers/Facebook.js</string>
-			<string>killers/TED.js</string>
-			<string>killers/MTVNetworks.js</string>
-			<string>killers/BBC.js</string>
-			<string>killers/Brightcove.js</string>
-			<string>killers/Flash.js</string>
-			<string>killers/Silverlight.js</string>
-			<string>killers/Generic.js</string>
+			<string>plugin-to-html5/YouTube.js</string>
+			<string>plugin-to-html5/CSSfix.js</string>
+			<string>plugin-to-html5/Generic.js</string>
 		</array>
 		<key>Key</key>
 		<string>killers</string>
